@@ -3,7 +3,8 @@
 <body>
 <h1>Hello JS</h1>
 <script>
-console.log(“Hello world!”);
+console.log(“Hello team minguk”);
+# world에서 team minguk으로 변경
 </script>
 </body>
 </html>
